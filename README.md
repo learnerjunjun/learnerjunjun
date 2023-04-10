@@ -19,4 +19,4 @@
 
 [![Jing's github stats](https://github-readme-stats.vercel.app/api?username=learnerjunjun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnerjunjun&theme=dracula&hide=HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnerjunjun)](https://github.com/anuraghazra/github-readme-stats)
