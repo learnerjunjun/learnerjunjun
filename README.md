@@ -18,5 +18,5 @@
 
 [![Jing's github stats](https://github-readme-stats.vercel.app/api?username=learnerjunjun)](https://github.com/anuraghazra/github-readme-stats)
 
+![bottom.png](https://github.com/learnerjunjun/pictures/blob/77ef02473749576a3a785279d421023c4d26fea8/bg2.webp)
 
-![bottom.png](https://jingpic.oss-cn-hangzhou.aliyuncs.com/pic/bg2.png)
