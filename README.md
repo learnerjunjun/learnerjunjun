@@ -12,6 +12,7 @@
 ### I'm Jingsong Yuan
 
 - ⭐ A Finance Undergraduate Student.
+- 🍀Major in Fintech and FinMathematics.
 - 🌱 Currently working in Hangzhou, China.
 - 💬 Ask me about Python, Matlab and my projects on [gmail](mailto:vyuan217@gmail.com)
 ### ✨ About me
