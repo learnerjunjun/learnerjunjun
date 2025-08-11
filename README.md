@@ -89,6 +89,14 @@
 
 ---
 
+## 🧭 Metrics
+<p align="center">
+  <img src="/github-metrics.svg" alt="metrics" width="88%"/>
+  <!-- 由 GitHub Actions 生成，需配置 METRICS_TOKEN -->
+</p>
+
+---
+
 <!-- 祝福语 + 尾注 -->
 <div align="center">
   <sub>བཀྲ་ཤིས་བདེ་ལེགས། · 愿你所愿，终得所愿。</sub>
