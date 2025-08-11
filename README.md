@@ -73,15 +73,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=learnerjunjun&theme=flat&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
 </p>
 
-<!-- 贪吃蛇贡献图 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/learnerjunjun/learnerjunjun/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/learnerjunjun/learnerjunjun/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/learnerjunjun/learnerjunjun/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ---
 
 ## 📝 最新文章
