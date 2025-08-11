@@ -21,10 +21,10 @@
 
 <br/>
 
-<!-- ===== 信息卡片（统一徽章 + 简介） ===== -->
+<!-- ===== 信息卡片（徽章 + 简介） ===== -->
 <div align="center">
 
-  <!-- 徽章：低饱和藏式配色 -->
+  <!-- 徽章：藏红色系 -->
   <a href="https://jingvc.com/">
     <img alt="homepage" src="https://img.shields.io/badge/主页-jingvc.com-7f1d1d?style=flat&labelColor=111111&logo=googlechrome&logoColor=ca8a04" />
   </a>&emsp;
@@ -41,52 +41,27 @@
   <sub>🎓 Zhejiang University · 📍 Hangzhou, China · ⏰ UTC+08:00</sub>
 </div>
 
-<!-- ===== 细金色分隔线 ===== -->
-<div align="center">
-  <img src="https://img.shields.io/badge/-%20-%20?style=flat&logoColor=white&labelColor=111111&color=ca8a04" alt="divider"/>
-</div>
+---
 
-## 🕊️ 关于我 · ངའི་སྐོར།
+## 🕊️ 关于我
 以克制与秩序为美，偏爱纯净留白与耐看配色。写代码、写字，也走山路。相信长期主义：在复杂里寻找简洁，于喧哗中保留宁静。  
-**Motto｜座右铭**：皆得所愿 · དགེ་བ་བསྐྱེད་
+**座右铭**：皆得所愿 · དགེ་བ་བསྐྱེད་
 
-- **关注方向**：前端工程化、内容生成、静态站优化（Jamstack）
-- **创作主题**：技术笔记、简明教程、工具清单、观影与阅读
+- **关注方向**：前端工程化、内容生成、静态站优化（Jamstack）  
+- **创作主题**：技术笔记、简明教程、工具清单、观影与阅读  
 - **价值取向**：Craft · Calm · Clarity
-
-<!-- 莲花 + 金刚杵小标识 -->
-<p>
-  <sub>༄ 🌸 Lotus · 🔱 Dorje · 🏳️ Prayer Flags</sub>
-</p>
 
 ---
 
-## 🧰 工具与栈 · ལག་ཆ།
+## 🧰 工具与栈
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,vite,vitest,webpack,vercel&perline=9" alt="fe stack"/><br/>
   <img src="https://skillicons.dev/icons?i=go,python,linux,docker,nginx,git,githubactions,figma,vscode&perline=9" alt="be/devops/design"/>
 </p>
 
-> 偏好 TypeScript 与简洁架构；适度自动化，避免过拟合的“炫技”。
-
 ---
 
-## 📚 写作与链接 · ཡིག་ཆ།
-- 博客（静态站 · Astro）：**https://jingvc.com**
-- 笔记与清单：简洁 / 可复用 / 可检索
-
-<!-- 经幡色带二次分隔 -->
-<div align="center">
-  <span style="display:inline-block;width:42px;height:6px;background:#2563eb;border-radius:2px;"></span>
-  <span style="display:inline-block;width:42px;height:6px;background:#e5e7eb;border-radius:2px;"></span>
-  <span style="display:inline-block;width:42px;height:6px;background:#7f1d1d;border-radius:2px;"></span>
-  <span style="display:inline-block;width:42px;height:6px;background:#15803d;border-radius:2px;"></span>
-  <span style="display:inline-block;width:42px;height:6px;background:#ca8a04;border-radius:2px;"></span>
-</div>
-
----
-
-## 📊 GitHub 统计 · ཚད་མ།
+## 📊 GitHub 统计
 <p align="center">
   <img height="158" src="https://github-readme-stats.vercel.app/api?username=learnerjunjun&show_icons=true&theme=calm&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
   <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnerjunjun&layout=compact&langs_count=8&theme=calm&hide_border=true" alt="top-langs"/>
@@ -109,14 +84,14 @@
 
 ---
 
-## 📝 最新文章 · དེབ་ཐོ།
+## 📝 最新文章
 <!-- BLOG-POST-LIST:START -->
 <!-- 通过 GitHub Actions 自动更新 -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📈 Activity Graph · གནད་བསྡུས།
+## 📈 活动图
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnerjunjun&theme=dracula&hide_border=true" alt="activity graph"/>
 </div>
