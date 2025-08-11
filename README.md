@@ -13,9 +13,16 @@
 <!-- 精简信息徽章：低饱和配色，尽量克制 -->
 <div align="center">
   <a href="https://jingvc.com/"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-jingvc.com-7f1d1d?style=flat&labelColor=111111&logo=googlechrome&logoColor=ca8a04" /></a>&emsp;
-  <a href="mailto:jing@jingvc.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-jing%40jingvc.com-7f1d1d?style=flat&labelColor=111111&logo=gmail&logoColor=ca8a04" /></a>&emsp;
+  <a href="mailto:vyuan217@gmail.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-vyuan217%40gmail.com-7f1d1d?style=flat&labelColor=111111&logo=gmail&logoColor=ca8a04" /></a>&emsp;
   <a href="https://github.com/learnerjunjun"><img src="https://img.shields.io/badge/GitHub-@learnerjunjun-7f1d1d?style=flat&labelColor=111111&logo=github&logoColor=ca8a04" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=learnerjunjun&style=flat&label=Visitors&color=7f1d1d" alt="访问量"/>
+</div>
+
+<!-- 极简信息区块：学校 / 地点 / 时区 / 邮箱 / 站点 -->
+<div align="center">
+  <sub>🎓 Zhejiang University · 📍 Hangzhou, China · ⏰ UTC +08:00</sub><br/>
+  <sub>✉️ <a href="mailto:vyuan217@gmail.com">vyuan217@gmail.com</a> · 🔗 <a href="https://jingvc.com">jingvc.com</a></sub>
+  <br/>
 </div>
 
 <!-- 分割线：细金色线条 -->
@@ -71,40 +78,13 @@
 
 ---
 
-### 📝 最新文章与在读
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+### 📝 最新文章
 
 #### ✍️ Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
 <!-- 这里将通过GitHub Actions自动更新 -->
 <!-- BLOG-POST-LIST:END -->
-
-</td>
-<td valign="top" width="50%">
-
-#### 📚 Reading & Watching
-
-<!-- START_SECTION:douban -->
-<!-- 在这里集成你的豆瓣/书影音动态（可选） -->
-<!-- END_SECTION:douban -->
-
-</td>
-</tr>
-</table>
-
----
-
-### ⏱️ WakaTime
-
-<!--START_SECTION:waka-->
-```txt
-# 自动统计编码时长（如果未配置，会保持为空）
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -115,14 +95,6 @@
 </div>
 
 ---
-
-### 🏷️ Metrics
-
-<div align="center">
-  <img src="/github-metrics.svg" alt="metrics" width="88%"/>
-</div>
-
-<br/>
 
 <div align="center">
   <sub>བཀྲ་ཤིས་བདེ་ལེགས། · 愿你所愿，终得所愿。</sub>
