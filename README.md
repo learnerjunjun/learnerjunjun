@@ -72,31 +72,6 @@ I believe in **long-termism**: finding simplicity in complexity, and calmness am
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnerjunjun&theme=calm&hide_border=true" alt="streak"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=learnerjunjun&theme=flat&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
-</p>
-
----
-
-## 📝 Latest Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Auto-updated by GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnerjunjun&theme=dracula&hide_border=true" alt="activity graph"/>
-</div>
-
----
-
-## 🧭 Metrics
-<p align="center">
-  <img src="github-metrics.svg" alt="metrics" width="88%"/>
-  <!-- Generated via GitHub Actions, requires METRICS_TOKEN -->
-</p>
 
 ---
 
