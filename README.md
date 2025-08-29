@@ -69,9 +69,6 @@ I believe in **long-termism**: finding simplicity in complexity, and calmness am
   <img height="158" src="https://github-readme-stats.vercel.app/api?username=learnerjunjun&show_icons=true&theme=calm&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
   <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnerjunjun&layout=compact&langs_count=8&theme=calm&hide_border=true" alt="top-langs"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnerjunjun&theme=calm&hide_border=true" alt="streak"/>
-</p>
 
 ---
 
