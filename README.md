@@ -1,6 +1,6 @@
 <!-- Modern Tibetan-Inspired Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jing&fontAlign=50&fontSize=52&fontColor=ffffff&color=0:D2533C,50:E4A853,100:4A9B8E&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlign=50&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=2" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=མེ་ཏོག་རྒྱས་པ&fontAlign=50&fontSize=42&fontColor=ffffff&color=0:D2533C,50:E4A853,100:4A9B8E&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="header" />
 </p>
 
 <!-- Dynamic Greeting -->
@@ -30,6 +30,14 @@
 <br />
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="800" src="https://github-readme-stats.vercel.app/api?username=learnerjunjun&hide=stars&show_icons=true&theme=transparent&hide_border=true&title_color=D2533C&icon_color=E4A853&text_color=4A9B8E&bg_color=00000000&custom_title=👨‍💻%20Full-Stack%20Developer%20%7C%20Creative%20Technologist&hide_rank=true&card_width=800" alt="About Card" />
+      </td>
+    </tr>
+    <tr>
+      <td>
 
 ```typescript
 const jing = {
@@ -43,6 +51,9 @@ const jing = {
 };
 ```
 
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
