@@ -37,12 +37,8 @@
 ## 🕊️ About Me
 Beauty lies in restraint and balance — I favor clean layouts and timeless colors.
 I write code, I write words, I walk mountain paths.
-I believe in long-termism: finding simplicity in complexity, and calmness amidst noise.
+I believe in long-termism: finding simplicity in complexity, and calmness amidst noise. 
 
-- Focus: Frontend engineering, static content generation, Jamstack performance
-- Themes: Notes, concise tutorials, curated toolkits, film & reading
-- Values: Craft · Calm · Clarity
-- 
 ## 🧰 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,vite,vitest,webpack,vercel&perline=9" alt="fe stack"/><br/>
