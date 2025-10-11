@@ -33,6 +33,7 @@
   <br/><br/>
   <sub>🎓 Zhejiang University · 📍 Hangzhou, China · ⏰ UTC+08:00</sub>
 </div>
+
 ## 🕊️ About Me
 Beauty lies in restraint and balance — I favor clean layouts and timeless colors.
 I write code, I write words, I walk mountain paths.
@@ -41,11 +42,13 @@ I believe in long-termism: finding simplicity in complexity, and calmness amidst
 - Focus: Frontend engineering, static content generation, Jamstack performance
 - Themes: Notes, concise tutorials, curated toolkits, film & reading
 - Values: Craft · Calm · Clarity
+- 
 ## 🧰 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,vite,vitest,webpack,vercel&perline=9" alt="fe stack"/><br/>
   <img src="https://skillicons.dev/icons?i=go,python,linux,docker,nginx,git,githubactions,figma,vscode&perline=9" alt="be/devops/design"/>
 </p>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="158" src="https://github-readme-stats.vercel.app/api?username=learnerjunjun&show_icons=true&theme=calm&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
