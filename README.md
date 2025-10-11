@@ -14,9 +14,8 @@
 
 <!-- Quick Info Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8F%94%EF%B8%8F_Based_in-Hangzhou-4A9B8E?style=for-the-badge&labelColor=2C3E50" alt="Location" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93_Education-Zhejiang_University-E4A853?style=for-the-badge&labelColor=2C3E50" alt="Education" />
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Focus-Web_Development-D2533C?style=for-the-badge&labelColor=2C3E50" alt="Focus" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-D2533C?style=for-the-badge&labelColor=2C3E50" alt="Role" />
+  <img src="https://img.shields.io/badge/Creative_Technologist-E4A853?style=for-the-badge&labelColor=2C3E50" alt="Focus" />
   <img src="https://komarev.com/ghpvc/?username=learnerjunjun&style=for-the-badge&color=4A9B8E&label=Profile+Views" alt="Profile views" />
 </div>
 
@@ -32,25 +31,44 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img width="800" src="https://github-readme-stats.vercel.app/api?username=learnerjunjun&hide=stars&show_icons=true&theme=transparent&hide_border=true&title_color=D2533C&icon_color=E4A853&text_color=4A9B8E&bg_color=00000000&custom_title=👨‍💻%20Full-Stack%20Developer%20%7C%20Creative%20Technologist&hide_rank=true&card_width=800" alt="About Card" />
+      <td align="center" width="50%">
+        <img width="60" height="60" src="https://img.icons8.com/fluency/96/marker.png" alt="location"/>
+        <br />
+        <b>Based In</b>
+        <br />
+        <sub>Hangzhou, China</sub>
+      </td>
+      <td align="center" width="50%">
+        <img width="60" height="60" src="https://img.icons8.com/fluency/96/graduation-cap.png" alt="education"/>
+        <br />
+        <b>Education</b>
+        <br />
+        <sub>Zhejiang University</sub>
       </td>
     </tr>
     <tr>
-      <td>
-
-```typescript
-const jing = {
-  location: "Hangzhou, China",
-  education: "Zhejiang University",
-  interests: ["Code", "Design", "Mountains", "Films"],
-  philosophy: "Simplicity in complexity, calm in chaos",
-  currentlyLearning: ["Rust", "WebAssembly", "3D Graphics"],
-  openToCollaborate: true,
-  workingOn: "Building fast, secure web experiences"
-};
-```
-
+      <td align="center" width="50%">
+        <img width="60" height="60" src="https://img.icons8.com/fluency/96/light.png" alt="philosophy"/>
+        <br />
+        <b>Philosophy</b>
+        <br />
+        <sub>Simplicity in complexity, calm in chaos</sub>
+      </td>
+      <td align="center" width="50%">
+        <img width="60" height="60" src="https://img.icons8.com/fluency/96/rocket.png" alt="learning"/>
+        <br />
+        <b>Currently Learning</b>
+        <br />
+        <sub>Rust • WebAssembly • 3D Graphics</sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="60" height="60" src="https://img.icons8.com/fluency/96/heart-with-pulse.png" alt="interests"/>
+        <br />
+        <b>Interests</b>
+        <br />
+        <sub>Code • Design • Mountains • Films</sub>
       </td>
     </tr>
   </table>
@@ -166,7 +184,7 @@ const jing = {
 
 <!-- Currently Working On -->
 <div align="center">
-  <img src="https://img.shields.io/badge/CURRENTLY_WORKING_ON-4A9B8E?style=for-the-badge&labelColor=2C3E50" />
+  <img src="https://img.shields.io/badge/CURRENT_FOCUS-4A9B8E?style=for-the-badge&labelColor=2C3E50" />
 </div>
 
 <br />
@@ -177,23 +195,23 @@ const jing = {
       <td align="center" width="33%">
         <img width="48" height="48" src="https://img.icons8.com/fluency/96/web.png" alt="Web Development" />
         <br />
-        <b>JAMstack Sites</b>
+        <b>JAMstack Architecture</b>
         <br />
-        <sub>Building fast, secure websites</sub>
+        <sub>Fast & secure web experiences</sub>
       </td>
       <td align="center" width="33%">
         <img width="48" height="48" src="https://img.icons8.com/fluency/96/performance.png" alt="Performance" />
         <br />
         <b>Performance Optimization</b>
         <br />
-        <sub>Making the web faster</sub>
+        <sub>Making the web blazing fast</sub>
       </td>
       <td align="center" width="33%">
         <img width="48" height="48" src="https://img.icons8.com/fluency/96/design.png" alt="Design" />
         <br />
         <b>Design Systems</b>
         <br />
-        <sub>Creating scalable UI patterns</sub>
+        <sub>Scalable UI patterns</sub>
       </td>
     </tr>
   </table>
@@ -236,6 +254,6 @@ const jing = {
   <sub>
     Made with care in Hangzhou
     <br />
-    2025 Jing · <a href="https://jingvc.com">jingvc.com</a>
+    2024 Jing · <a href="https://jingvc.com">jingvc.com</a>
   </sub>
 </div>
