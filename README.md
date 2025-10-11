@@ -252,8 +252,8 @@
 
 <div align="center">
   <sub>
-    Made with care in Hangzhou
+    Made with ❤️ in Hangzhou
     <br />
-    2024 Jing · <a href="https://jingvc.com">jingvc.com</a>
+    2025 Jing · <a href="https://jingvc.com">jingvc.com</a>
   </sub>
 </div>
