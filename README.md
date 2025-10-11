@@ -1,6 +1,6 @@
 <!-- Modern Tibetan-Inspired Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jing%20·%20景&fontAlign=50&fontSize=52&fontColor=ffffff&color=0:D2533C,50:E4A853,100:4A9B8E&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlign=50&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=2" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jing&fontAlign=50&fontSize=52&fontColor=ffffff&color=0:D2533C,50:E4A853,100:4A9B8E&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlign=50&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=2" alt="header" />
 </p>
 
 <!-- Dynamic Greeting -->
